@@ -1,0 +1,143 @@
+Hi, I'm Raman, this is Luke. Luke, your role, you are a borrower, getting started on the platform, you're already signed in, that's the scope. Let's go from here, you're on the homepage right now. All right, anything I need to get to? You want to get to the borrower demo. Okay, so go for it. Wait, before this actually. Would you like to be in late or dark mode? Let's go dark mode,
+
+it's easier on the
+
+answer. So we'll go into for borrowers. And just click enter email.
+
+All
+
+right. Now you're on both signed in page. Oh, so that's Lundur, my bad. You want to click the borrower demo. Oh, borrower? OK. Now you're on step one of seven of the borrower demo. My click is reversed, by the way. Oh, OK. So what you're able to do, all right, so just play around.
+
+All right,
+
+3D
+
+globe. Assuming, ooh.
+
+Looking at your current position. You can click on, all those are clickable. That just takes you to the home. That enables buildings on some maps. It's the marker style. And click Open Street. So you can change different globes. And you can also click on a property and click Zoom In
+
+on
+
+that
+
+one. And
+
+every property you click on, You're able to see all the property info. Year, bill, value, type,
+
+other,
+
+nice. And then you can continue through, and like continue through the demo with that property, or you can go list view. All right. And list view, just is you're able to select properties, like just click on them, there's 18, you can go next pages, there's all different types, there's offices, multifamily, residential. If you click on one of the properties.
+
+Is there any
+
+way to filter in here, or is that up here? The filter, the state filter. Oh, OK.
+
+Filter by
+
+state. But you can click on the property, and it'll go and update the selected properties. Click on it, yeah. And then
+
+you can also
+
+go, don't continue to share. Click Maps, too. Oh, Maps? Nice. So Maps is like, just like the globe, you can also zoom down. I thought you meant. If you, here a
+
+sec.
+
+Scroll down. I know this is like, it's not good, but you should be able to actually drag and drop on these little street view guys onto set property. All right, well, it's not working right now. But that street view, you can actually be on the street. But now, that property, whatever property you click on, you just continue. You would just turn on demo mode. My question for you after that first page, what did you like most between the 3D globe, the maps, and the actual list view?
+
+So the globe couldn't have added utility of, like, getting the free view, right? So I would say, yeah, the map probably, then, for sure. And then I like the listing view as well. Potentially a way to just, as you said, there are also different genre-specific stuff, like what type of property it is. Just a way to maybe filter and only get those. Might be my one thing that I probably want. Awesome.
+
+Now you're on step two of the demo. Oh, sorry, demo. Oh, is that not? Sorry,
+
+I thought you
+
+said click. That was my bad. Cash amount. Luke is now looking through step two, and he's scrolling through and seeing all the different info. So just John Smith, yeah,
+
+base demo type info. But it gives you all the ownership and experience.
+
+Property info. info from whatever selected property will transfer over to the second step. So you don't have to fill it in, all the property info. It has current rental value, all that stuff. Yep. And you're able to select different types of loans. You can play around with the loans if you want. Oh, right
+
+here? Okay.
+
+Yep. So there's cash out, cash out refinance, acquisition, and then you can click on different strategies. Each loan purpose has many different strategies, and the form will adapt to. All right, so hold for investment. Purchase priced. And preferred rate type, you can enter that in. You can click something for that.
+
+Fixed, all right. Maximum acceptable where we say that people, lenders coming in can know exactly what you're looking for and where to negotiate off of. That's nice. And all that's, oh. Sorry,
+
+sorry. We accidentally swiped out of it. Yeah, I got you with the Mac side swipe stuff. Evil, evil.
+
+All right, there we go.
+
+All
+
+right. Nice, okay. So now you're, you can continue on this. All right, I'm viewing the information. Now Luke is on step three of the borrower demo. He just reviewed all the information for the demo property on step two. And now he's going through the broker fee agreement, step three. We are the broker, so you can't enter that info.
+
+Would there normally be time in between this step and the prior step to find a lender, like where they would also have to go in, or is this a request to that lender?
+
+This is essentially what this agreement, we are the broker and we, you're the borrower and lender, we match them together. We're like the middleman, the broker's the
+
+middleman. I got you, yeah. I
+
+understand that. This is like the due diligence where you sign the form, so it's like if we match you with a lender.
+
+Oh, this is my personal client information.
+
+Yeah, you can't supersede us. We have to go through the rest of the deal.
+
+You can't
+
+change the fee structure, that's our fee. Oh, okay. Yeah, and then you can generate the agreement. That works. Nice. I'll close that down. And then you're able to upload it and docu-sign it. The integration's being built out. And there's an attestation. I acknowledge. I can't just put anything in here? Yeah. Now Luke is on step four of the borrowed demo. He's meeting his broker. It's my co-founder. You can look at the different fees, like how we would calculate it. Like a million dollar loan, a two and a half million dollar loan. What fee we take, we take. All right. Is it, if it's over a certain amount, then it's guaranteed to be a certain different
+
+percentage fee? Yeah. It's
+
+variable. Um, so. Yeah. I guess I'll never go over what most competitors. Yeah. We undercut all of our competitors. Which is good. Why choose us? Lowest, great lender network. I like
+
+it.
+
+Now, Luke, you're on step five, and before we continue, this step five is the AI lender matching. So, after reviewing step three and four, two, three, and four, with the attestation and property information, what are some things you liked and didn't
+
+like? I'd say sometimes there's just like two or three buttons, it seems, that all say, go to the next page, and it feels like That might just be a little much, you know? I do definitely like just how much info there is. My only question is like, why choose us? Do you have that on a separate? It almost seems like that should be. like one of the main, on the left side from when we started, one of those main like choosables kinda. It's like what your company is, why choose us, meet us, and almost get that out of the way beforehand kinda. Although I do like that it is kinda, I'd say maybe if it's the first time to show that info in it, but if they were doing that again and again, I don't know if they'd wanna, that'd just be extra stuff to scroll past.
+
+It's our intake form, so it's like when we probably bring on new
+
+users.
+
+Sorry, sorry. All right, now Luke is back to
+
+the step
+
+five, lender matching. He's writing the analysis, looking at 30 potential lenders. How does it actually go? Is it just AI? Those are demo users right now, but it'll be like. When it's fully implemented, OK. Yeah. We have our own machine learning model. OK, so I'm going to choose one. It wants you to it's not the select isn't working. Okay, so it gives the full list
+
+Okay, and then
+
+you
+
+just can use like the lenders Say maybe like page that so yeah, it's not like
+
+too long, you know I Luke wants to add more pagination, like only showing the top three deals and you can go next, next. And also being able to select the deals in step five, there's a bug and you can't select them. Luke is now in step six, the borrow demo, doing the deal distribution and tracking. Right now, Luke had selected run distribution. He's checking the distribution. And these are demo simulated lenders, or yeah, lenders. You get to see all the stats of them. When we send the message, from the time Luke sends the message to when they open it, and they viewed it, and how long they spent on that page, and if they've accepted or not.
+
+that you can continue to delay offers. That's good. So normally you can get that without going through this whole process. That's just a different page. You can see it at all times? Yeah.
+
+OK. Now Luke is on step seven of the borrower demo. He's reviewing offers. All right, we're not accepting the first offer. Do we trust that's the best overall? Well, before you accept one, you can. Interest rate, all that info. So this is the overview tab. Do you want to check out the detail analysis?
+
+APR, okay. Oh, okay, so it could show you how fast you'd have to pay it off. That's pretty nice.
+
+That's how much you get paid off. In 12 months, they'll give you 1.5 million, then 1.8, then
+
+2.8.
+
+Oh, including interest payments as well? Yeah. I was about to say. I'd say maybe just the monthly, what your monthly payment would break down to. I don't know, though. I mean, it'd be easy enough to calculate, but. So
+
+working through your feedback for, what would be your feedback from overview, detail analysis, and scenario planning on, what step is this? Step? This is the, oh, sorry, I got you.
+
+Fuck.
+
+On step seven. Yeah, step seven. Yeah, do you want to go through your feedback?
+
+You're fine. I would say, besides MacBooks just being all evil. No, I'm joking. I liked it. I would say sometimes, well, I'm assuming, yeah, this won't show up for most people, so this would just be the review,
+
+right?
+
+There, they get a couple less, but yeah. Yeah. I would say I like, I like the look and feel of the app. I think it moves pretty nicely. It's just, again, I'd almost maybe want just like an about us down here, you know, and maybe some of that on this, you know, front page, you know, yeah, something somewhere where it's just like, cause you know, I think you guys also want to sell the story that you guys are, you know, college students, or just out of college here with this app, and you're not like the big companies that, you know, yeah, kind of like that story, but you just want that to be front and center, because that's what people buy into as well, is, you know, the reason, you know, why are they giving us a better rate, and it's because, you know, we care about this and we don't want you to lose to those bigger competitors who have the monopoly on it, you know, something like
+
+that.
+
+I like that. So have more. Why us? Yeah. Cause you know, it's a, it's a pretty competitive market. So you really want to say why you stand out and what differentiates you like right there. So yeah, I like it. That's great. Thank you so much. No.
