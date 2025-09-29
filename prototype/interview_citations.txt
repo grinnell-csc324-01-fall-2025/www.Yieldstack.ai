@@ -1,0 +1,6 @@
+Evidence lines referenced in report:
+
+- Preference for Map; desire for property-type filters: "the map probably... I like the listing view... maybe filter only those [types]." fileciteturn3file0
+- Lender selection bug; desire for pagination: "the select isn't working... Luke wants to add more pagination, like only showing the top three deals." fileciteturn3file0
+- Too many Next buttons; Why us earlier: "two or three buttons... all say go to the next page... maybe want an about us... front page... tell the story." fileciteturn3file0
+- Monthly payment breakdown: "maybe just the monthly... what your monthly payment would break down to." fileciteturn3file0

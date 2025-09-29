@@ -36,3 +36,18 @@ YieldStack.ai is an AI-powered commercial real estate finance platform that conn
 npm install
 npm run dev
 ```
+
+## User Research Documentation
+
+This repository contains:
+
+- [`observation.md`](observation.md) — User testing notes from Keaton Fitzgerald
+- [`interview.md`](interview.md) — Raw needfinding interviews with clients and industry contacts
+- [`personas.md`](personas.md) — User personas for Morty (borrower) and Rick (lender)
+- [`prototype/`](prototype/) — Prototype artifacts and research documentation
+
+## Browser Support
+
+Unfortunately, we've found that Cursor's preview is not supported in all browsers. While you are welcome to run your own version of this website, our demo must be viewed in **Chrome**.
+
+Try visiting https://www.Yieldstack.ai !

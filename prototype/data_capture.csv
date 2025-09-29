@@ -1,0 +1,5 @@
+participant_id,experiment_id,task,start_ts,end_ts,success,errors,misclicks,notes,confidence_1_to_7
+P1,EXP1,Shortlist properties,,,TRUE,0,1,"Used state filter; wanted property-type filter",6
+P1,EXP2,Select lenders,,,PARTIAL,0,0,"Pagination desired; selection bug",5
+P1,EXP3,Advance steps,,,TRUE,0,0,"Redundant Next buttons felt excessive; wants Why us earlier",5
+P1,EXP4,Understand offers,,,PARTIAL,0,0,"Wants monthly payment breakdown",5
